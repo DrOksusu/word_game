@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "trans-shuttle-363505",
+  "private_key_id": "620063c62c4de5350cf73815706107c35b7e1f66",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdgaclyUzQdn3L\n4V95jnBz+LF/UWp5oIrlkdqt/8EBfkZdAbH2hN4x9ukImoW8uJ8RPMpghowSJFZ2\nYv9KNZ1m1/pSRpokRlaWEqI1/kXsG/u7GaVni3KSLrqsgYQJ19G8LR4yQJhA0TBU\nvVmBTFhY4C7xuH/h8JXIhKbbysMAum6gvrkEoGXR+4D2ofTtDc7mv8WeuxqCvhz4\n3jSotxkBSXxhuMRCyi0/kP0PuCudckTxwQYWDFcFVS+SGV9BdsbOyBp/96Qbzwxi\nj8RRCpA4inDRENEZTXrP76pIQUbuQQbh2+GK7FL799V96S0gdFcvOTOgrbwzvJBu\nPSY0LSKVAgMBAAECggEAHnGHOG1AcOGaPnxNCy5+K1hEHI8ExMYEWsuWiD+xE0QQ\nPx1bA8JaPS+TisNtOpU3v6nvlvkinUYTRTYs0G/tAMoZmuoFFKJYzZCD9Go1oyWk\ngh06pHkmV716/Olat1lU82mIFt/33b1hOVvQ70YtpF4OjM+jvizVkqibJMv75YmV\na8Hj3gUDswNkNi7vI4rYTB2hs+6JAKPL8faRWpGIaG0sWBhzR8Kmxfdf1bTcj4VR\nWXaaFmH8VxH/KxdErXRIq1DxQxo4Uf49s1ixt0w8Vlpk7aebJX7ic5w21ciPOrYd\nXOzVJa40K9jKbFfAsni9LDe0O7UYckCBlKjRArUM8QKBgQDcv/wKjxJR3kwe3Kxx\ntZuQDmqNlM1WpL/D/RyZ4tZxWHn4mNP7V71WlEh3cASkZz98N3OttnMiE4rttFIO\nzRsYVR4u0UR962I4vxAg/qzQYBvXZF6i2KSTDHmI02qBxFWWjjBWUFVS0NAsdCjw\nF5wW5C2R8aHO3pSZdCfuHSykpQKBgQC2qFgaiXGRYIwbnSbXvRe4R76pPIs/7N8y\npUd2I+uO+Bs6yEGVsp8MmynEWQTxMsFOBklAchGM6m1NsTUkmF9WRLjzLzAOX3Yx\n63JmQOlA5aZEGUPa/0F/usxccCroUq43pKaqtckWjLeu/0n2AN5H4fpt3PTGHSvj\niCskoKXzMQKBgDrz0n2HY98VPMLpL+xWEatRDketO4EuEkBm8iJun9I5TKmFNudi\nsR/UDd5HvhWhtSSZMn1rwieRjIKaq2dkgx3mbV8XZ/Ew0VRSQh5tpP0pDYZiOZvH\nu3vB0xslSsZJBopkgqgqX/7z4QReKSilRXwfh8P4AbxbWNf6W0eN5wQ5AoGBAJzD\n+PG1mrHx0e31P5wTX2M6uClZnA2eR6WY8q8zfv0ydXRK4PcQ2a6hEQTCfhpgvEUx\n4facr/FoVa1DdN/WoqRQ0QduLWl4huGrOIEIHuki8EMsB+/R+a4dbT28yyafp4R8\nHMsQv+hJl3BrDFhFQIEjMqLN64qJCNz8RkLmWedRAoGBALGIZ+qVWNzYaLWP89I0\nFX/kTvQT7uPiVwNiyILAS5LwB8TVVsToOZ6b4LlTZ7KOkX7v1lZV2CpyZ0E6KdNp\n3SyicqL0UQuii2mhWuLyzetJ6VQrdvgeGSsyndwMzmunlANP72Url1+UFHbQjGw0\ngYC+0it+1YQ8+hrqK6M9TksH\n-----END PRIVATE KEY-----\n",
+  "client_email": "pywordgame@trans-shuttle-363505.iam.gserviceaccount.com",
+  "client_id": "116736212108565240107",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pywordgame%40trans-shuttle-363505.iam.gserviceaccount.com"
+}
